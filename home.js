@@ -11,3 +11,4 @@ const instanceOfEsempioClassi =  new esempioClassi("luca");
 
 instanceOfEsempioClassi.saluta(); 
 esempioIstanza.saluta()
+// TODO > scrivere app che legge una pagina di wikipedia e la salva su pc (in cartella magari qui dentro)
