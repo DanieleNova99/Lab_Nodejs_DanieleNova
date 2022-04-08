@@ -1,6 +1,8 @@
-const esempioSubClass = require("./esempioSubClass");
-const esempioClassi = require("./esempioClassi");
-const esempioIstanza = require("./EsempioInstance");
+console.log("Example of different module importing methods.");
+
+const esempioSubClass = require("./lezione2/esempioSubClass");
+const esempioClassi = require("./lezione2/esempioClassi");
+const esempioIstanza = require("./lezione2/esempioIstance");
 
 esempioSubClass();
 esempioSubClass.Persona("Roberto");
